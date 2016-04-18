@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ils.xml -0.412264 43.375281 186.46 52.46
+OBJECT_SHARED Models/Communications/vordme_1.xml -0.412264 43.375281 186.46 180
+OBJECT_SHARED Models/Airport/localizer.xml -0.435986 43.389092 176.7 35.89
+OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac -0.41742 43.38362 183.03 0

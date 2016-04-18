@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0635232 47.7226655 -2.75 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0339121 47.7246984 -0.01 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0338287 47.7246665 -0.01 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0338239 47.7247036 -0.02 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0130131 47.7314431 -0.21 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.0010899 47.7252896 0 180
+OBJECT_SHARED Models/Power/windturbine_flash.xml -4.0046586 47.7232322 3 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -4.02355 47.6462167 -3.26 243.94
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -4.1046791 47.6840235 -7.06 176.7

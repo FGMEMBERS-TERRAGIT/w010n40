@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.2302778 44.7075 -30.09 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.1636111 44.6472222 16.03 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -1.1521207 44.664304 -0.02 310.77
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -1.1516234 44.665898 -0.02 21.19
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.1498187 44.6641343 -0.02 218.58
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.1485523 44.6650563 -0.03 285.26

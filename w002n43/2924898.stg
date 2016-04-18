@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.4900843 43.5023757 0.08 210.59
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac -1.497883 43.52646015 5.7 60
+OBJECT_SHARED Models/Industrial/oilrig09.xml -1.49407706 43.52554749 2.71 40
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -1.49301084 43.52358487 1.16 48
+OBJECT_SHARED Models/Power/TankFO60x15m.ac -1.49444822 43.52921411 6.53 0

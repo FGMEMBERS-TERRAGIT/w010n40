@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.9852778 47.3108333 -32.4 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.8875 47.3552778 47.49 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.7786111 47.3102778 59.6 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank100m.ac -1.88591 47.27829 -75.63 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank100m.ac -1.88551 47.27911 -76.87 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank100m.ac -1.88296 47.27857 -75.71 0
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.8991075 47.2786297 0 193.88
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml -1.88154 47.27669 5.44 0
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml -1.87811 47.27526 12.5 0
+OBJECT_SHARED Models/Industrial/Boesdorf_Chimney.xml -1.87599 47.2744 18.02 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.89804 47.2816526 -0.17 247.07

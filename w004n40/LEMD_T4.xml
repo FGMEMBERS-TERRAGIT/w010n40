@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<path>LEMD_T4.ac</path>
+
+<animation>
+	<type>material</type> 
+	<object-name>TWR.Glass</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>0.8</red>	
+		<green>0.8</green>	
+		<blue>0.6</blue>
+	</emission>
+</animation>
+
+  <effect>
+	  <inherits-from>Effects/model-combined-deferred</inherits-from>
+	  <parameters>
+		  <lightmap-enabled type="int">1</lightmap-enabled>
+		  <lightmap-multi type="int">1</lightmap-multi>
+		  <!-- use only the red channel -->
+		  <lightmap-factor type="float" n="0"><use>/scenery/LEMD/lightsFactor</use></lightmap-factor>
+		  <lightmap-factor type="float" n="1">0</lightmap-factor>
+		  <lightmap-factor type="float" n="2">0</lightmap-factor>
+		  <lightmap-factor type="float" n="3">0</lightmap-factor>
+		  <texture n="3"> <!-- lightmap -->
+			  <image>LEMD_T4_2.png</image>
+			  <filter>linear-mipmap-linear</filter>
+			  <wrap-s>repeat</wrap-s>
+			  <wrap-t>repeat</wrap-t>
+			  <internal-format>normalized</internal-format>
+		  </texture>
+	  </parameters>
+	  <object-name>Body</object-name>
+	  <object-name>Columns</object-name>
+	  <object-name>Roof</object-name>
+  </effect>
+
+
+  <!--/scenery/LEMD/lightsFactor is calculated in LEMD_T4S.xml. You need this
+       model in your scenery!-->
+
+</PropertyList>

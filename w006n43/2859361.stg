@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.699265 43.571911 8.26 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -5.6637589 43.5822262 -3.05 248.88
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -5.6616703 43.5749405 -2.06 85.33
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -5.658425 43.5799684 -2.93 266
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -5.668193 43.5802245 -2.58 48.53

@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -2.1433333 47.1713889 -26.22 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -2.1683333 47.1402778 23.43 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -2.1655556 47.1372222 31.59 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -2.223122 47.2487094 -0.23 123.34

@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Industrial/water-tower.ac -1.50133279 43.52907194 11.47 0
+OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml -1.54557556 43.54974278 -3.84 0
+OBJECT_SHARED Models/Maritime/Civilian/Trawler.xml -1.53375522 43.55481204 -3.21 120
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -1.56413297 43.53893252 -4.62 240
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -1.50054005 43.52723247 3.98 68
+OBJECT_SHARED Models/Power/Poolbeg_TurboGas.ac -1.50237254 43.53078597 8.89 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.5465167 43.5431461 -3.31 241.17

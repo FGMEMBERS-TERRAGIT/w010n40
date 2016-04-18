@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Civilian/FerryBoat1.ac -5.0993023 48.5362763 -0.53 124
+OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml -5.1527236 48.514547 -0.65 144
+OBJECT_SHARED Models/Maritime/Civilian/Freighter.xml -5.1698178 48.5318175 -0.36 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_sailing.xml -5.1565116 48.5545419 -0.6 336

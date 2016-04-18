@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.8361111 47.0625 -287.89 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.8380556 47.0477778 89.01 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.9016667 47.0972222 120.52 180
+OBJECT_SHARED Models/Residential/immeuble3.xml -0.8961312 47.042938 104.02 10
+OBJECT_SHARED Models/Industrial/Industrial50x75.ac -0.845295 47.065847 135.53 50
+OBJECT_SHARED Models/Industrial/Industrial50x75.ac -0.844992 47.066432 135.38 50
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac -0.879625 47.081635 130.47 120
+OBJECT_SHARED Models/Industrial/Industrial35x55.ac -0.879491 47.08211 130.78 120
+OBJECT_SHARED Models/Airport/helipad_circle.xml -0.897386 47.041395 110.1 0
+OBJECT_SHARED Models/Airport/helipad_circle.xml -0.897381 47.041389 110.08 0
+OBJECT_SHARED Models/Airport/helipad_circle.xml -0.878398 47.082545 128.73 0
+OBJECT_SHARED Models/Residential/ad1c.xml -0.8999186 47.0407008 101.85 120
+OBJECT_SHARED Models/Airport/4m90_HelipadCollar.ac -0.897381 47.041389 110.08 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml -0.880247 47.079578 129.81 0
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac -0.9027878 47.0408216 97.44 15
+OBJECT_SHARED Models/Industrial/HC-Tank.ac -0.8996021 47.0409347 102.29 0
+OBJECT_SHARED Models/Industrial/HC-Tank.ac -0.8989208 47.0412107 103.86 0

@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.6073774 49.4574978 36.28 180
+OBJECT_SHARED Models/Power/windturbine_flash.xml -1.7134715 49.4209061 122.46 0
+OBJECT_SHARED Models/Power/windturbine_flash.xml -1.7122255 49.4200061 128.72 0
+OBJECT_SHARED Models/Power/windturbine_flash.xml -1.7110066 49.4188234 136.48 0
+OBJECT_SHARED Models/Power/windturbine_flash.xml -1.7097062 49.4176351 142.44 0
+OBJECT_SHARED Models/Power/windturbine_flash.xml -1.7083664 49.4165981 139.37 0

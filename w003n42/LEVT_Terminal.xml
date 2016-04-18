@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<path>LEVT_Terminal.ac</path>
+
+<animation>
+	<type>material</type> 
+	<object-name>Windows</object-name>
+	<object-name>TWR.Windows</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>0.6</red>	
+		<green>0.6</green>	
+		<blue>0.6</blue>
+	</emission>
+</animation>
+<animation>
+	<type>material</type> 
+	<object-name>Terminal</object-name>
+	<object-name>TWR</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>		
+	</condition>
+	<emission>	
+		<red>0.2</red>	
+		<green>0.2</green>	
+		<blue>0.2</blue>
+	</emission>
+</animation>
+
+
+</PropertyList>
