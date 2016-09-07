@@ -124,3 +124,4 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -4.5019891 48.607218 60.99 180
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -4.7120366 48.5628151 -0.01 162.97
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -4.7131652 48.5617569 0 148.76
 OBJECT_STATIC Ile_Wrach.xml -4.57579 48.61475 -0.55 0
+OBJECT_STATIC Lanvaon_Lighthouse.xml -4.53666356 48.6111133 29.9 0
