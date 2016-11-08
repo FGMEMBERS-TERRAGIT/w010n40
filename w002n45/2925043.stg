@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -1.1842986 45.8392357 0 188.99
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -1.1836112 45.8475037 -0.01 245.18
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.2205536 45.8046403 -0.04 358.82
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.2129795 45.8127444 -0.02 277.59
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.1988355 45.8219672 -0.02 54.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.1810892 45.8376704 -0.01 275
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.1775508 45.834214 0 33.07
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.1758751 45.8459646 0 141.8
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.1743683 45.8694636 -0.01 293.8
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.2196686 45.8073073 -0.03 342.29
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1964037 45.802261 -0.01 312.91
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1873617 45.8239049 -0.02 336.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1769414 45.8292551 0 212.14
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.2280192 45.7964345 -0.03 177.77

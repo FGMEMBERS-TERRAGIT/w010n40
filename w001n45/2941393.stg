@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.505 45.3161111 87 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -0.7406631 45.3249479 -2.65 243.1
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -0.7203772 45.2863384 -0.28 162.7

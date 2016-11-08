@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac -2.639514 49.434508 64.06 180
+OBJECT_SHARED Models/Airport/ndb.ac -2.601778 49.436494 93.57 180
+OBJECT_SHARED Models/Airport/ils.xml -2.608117 49.435769 91.16 270.88
+OBJECT_SHARED Models/Airport/ils.xml -2.595197 49.434153 98.02 90.88
+OBJECT_SHARED Models/Communications/vordme_1.xml -2.602058 49.437097 92.69 180
+OBJECT_SHARED Models/Airport/localizer.xml -2.602058 49.4363 93.68 359.12
+OBJECT_SHARED Models/Airport/localizer.xml -2.59 49.435281 97.59 177.59
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -2.53075 49.45659 -0.01 260
+OBJECT_SHARED Models/Maritime/Civilian/Guernsey_Ambulance_Boat.ac -2.52714364 49.453594 0 0
+OBJECT_STATIC Les_Hanois_Lighthouse.xml -2.70169617 49.43665928 -1.47 0
+OBJECT_STATIC Guernsey_Terminal.ac -2.60265714 49.4324268 93.55 92

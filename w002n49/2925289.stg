@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -1.6305556 49.6283333 -371.81 180
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.64824 49.67333 -0.85 267.07
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.59104 49.6721 -0.14 287.68
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.58824 49.67753 -0.52 325.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.7013333 49.7206833 -3.19 305.34

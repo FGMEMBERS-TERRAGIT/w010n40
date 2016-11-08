@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -2.1125 47.1227778 10.25 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -2.1327778 47.1147222 29.66 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -2.0816667 47.1091667 28.68 180
+OBJECT_SHARED Models/Power/windturbine_flash.xml -2.0795112 47.0729157 -0.78 180
+OBJECT_SHARED Models/Power/windturbine_flash.xml -2.0161898 47.0811624 31.03 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.1111964 47.1077685 0 130
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -2.1109533 47.1080579 0 255.4
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -2.107963 47.1105191 -1.69 243.66

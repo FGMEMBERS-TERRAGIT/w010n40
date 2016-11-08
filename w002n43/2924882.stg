@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radome-8m.xml -1.4067346 43.2838113 912.4 0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -1.4088 43.28233 903.05 0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -1.40872 43.28212 901.47 0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -1.40819 43.28293 911.25 0

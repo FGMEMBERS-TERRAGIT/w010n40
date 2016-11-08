@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+  <path>LEZG_Terminal.ac</path>
+  <animation>
+    <type>material</type>
+    <object-name>Luggage</object-name>
+    <object-name>Doors</object-name>
+    <condition>
+      <greater-than>
+      <property>/sim/time/sun-angle-rad</property>
+      <value>1.57</value>
+    </greater-than>
+  </condition>
+  <emission>	
+    <red>0.5</red>	
+    <green>0.5</green>	
+    <blue>0.45</blue>
+  </emission>
+  </animation>
+
+  <effect>
+	  <inherits-from>Effects/model-combined-transparent</inherits-from>
+	  <parameters>
+		  <reflection-enabled type="int">1</reflection-enabled>
+		  <reflection-dynamic type="int">1</reflection-dynamic>
+		  <reflection-correction type="float">0.5</reflection-correction>
+		  <lightmap-enabled type="int">1</lightmap-enabled>
+		  <lightmap-multi type="int">1</lightmap-multi>
+		  <lightmap-factor type="float" n="0"><use>/scenery/LEZG/lightsFactor</use></lightmap-factor>
+		  <lightmap-factor type="float" n="1">0</lightmap-factor>
+		  <lightmap-factor type="float" n="2">0</lightmap-factor>
+		  <lightmap-factor type="float" n="3">0</lightmap-factor>
+		  <texture n="3"> <!-- lightmap -->
+			  <image>LEZG_Terminal_2.png</image>
+		  </texture>
+	  </parameters>
+	  <object-name>Glass</object-name>
+  </effect>
+
+  <effect>
+	  <inherits-from>Effects/model-combined-deferred</inherits-from>
+	  <parameters>
+		  <lightmap-enabled type="int">1</lightmap-enabled>
+		  <lightmap-multi type="int">1</lightmap-multi>
+		  <!-- use only the red channel -->
+		  <lightmap-factor type="float" n="0"><use>/scenery/LEZG/lightsFactor</use></lightmap-factor>
+		  <lightmap-factor type="float" n="1">0</lightmap-factor>
+		  <lightmap-factor type="float" n="2">0</lightmap-factor>
+		  <lightmap-factor type="float" n="3">0</lightmap-factor>
+		  <texture n="3"> <!-- lightmap -->
+			  <image>LEZG_Terminal_2.png</image>
+		  </texture>
+	  </parameters>
+	  <object-name>Columns</object-name>
+	  <object-name>Offices</object-name>
+	  <object-name>Roof</object-name>
+  </effect>
+
+  <!--
+      THE FOLLOWING CODE IS USED BY OTHER MODELS IN THE SCENERY!!!!
+      the following properties are used in all the light related effects
+      at LEZG, as a better alternative to using sun-angle-rad directly.
+      Credits for the original idea go to LOWI scenery developers.
+      See their LOWI_garage_main.xml 
+
+      Can be extended with loop freq throttling and weather data:
+      http://forum.flightgear.org/viewtopic.php?p=208233#p208233
+  -->
+  <nasal>
+    <load><![CDATA[
+if (!contains(globals, "scenery")) globals["scenery"] = {};
+if (!contains(scenery, "LEZG")) scenery["LEZG"] = {};
+if (!contains(scenery.LEZG, "lightsFactor")) scenery.LEZG.lightmapFactor = nil;
+if (!contains(scenery.LEZG, "lightsSwitch")) scenery.LEZG.lightSwitch = nil;
+
+var loopIntervalInSeconds = 1.0;
+var isActive = 0;
+var lowerBound = 1.45;
+var upperBound = 1.60;
+var updateLightmapFactors = func() {
+  isActive or return;
+  
+  var sunAngle = getprop("/sim/time/sun-angle-rad") or 0.0;
+  
+  if(sunAngle < lowerBound) {
+    # DAY
+    setprop("/scenery/LEZG/lightsFactor", 0.0);
+    setprop("/scenery/LEZG/lightsSwitch", 0);
+    
+  } else if((lowerBound <= sunAngle) and (sunAngle <= upperBound)) {
+    # DAWN/SUNRISE
+    var lmFactor = (sunAngle - lowerBound) / (upperBound - lowerBound);
+    var lmSwitch = 1; #(lmFactor > 0.5 ? 1 : 0);
+    setprop("/scenery/LEZG/lightsFactor", lmFactor);
+    setprop("/scenery/LEZG/lightsSwitch", lmSwitch);
+#    print("sunAngle = ", sunAngle);
+#    print("MIDDLE lightsFactor = ", lmFactor);
+    
+  } else {
+    # NIGHT
+    setprop("/scenery/LEZG/lightsFactor", 1.0);
+    setprop("/scenery/LEZG/lightsSwitch", 1);
+  }
+
+  settimer(updateLightmapFactors, loopIntervalInSeconds);
+}
+isActive = 1;
+updateLightmapFactors();
+]]>
+    </load>
+    <unload>isActive = 0</unload>
+
+  </nasal>
+
+</PropertyList>

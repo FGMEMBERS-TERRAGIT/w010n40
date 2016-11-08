@@ -1,0 +1,119 @@
+AC3DbS
+MATERIAL "default" rgb 0.5 0.5 0.5 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "Couleur_001" rgb 0.8863 0.8863 0.8863 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+MATERIAL "Matière4" rgb 0.5176 0.5020 0.4745 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+MATERIAL "Matière3" rgb 0.4275 0.4118 0.3804 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+MATERIAL "Matière2" rgb 0.5176 0.5020 0.4745 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+MATERIAL "Matière1" rgb 0.4392 0.4196 0.3725 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+OBJECT world
+kids 5
+OBJECT poly
+name "blah"
+texture "LFRU_algeco_1.png"
+numvert 4
+18.000000 3.000000 -0.000000
+0.000000 0.000000 0.000000
+18.000000 0.000000 0.000000
+0.000000 3.000000 -0.000000
+numsurf 2
+SURF 0x10
+mat 5
+refs 3
+0 1.0000 1.0000
+1 0.0000 0.0000
+2 1.0000 0.0000
+SURF 0x10
+mat 5
+refs 3
+1 0.0000 0.0000
+0 1.0000 1.0000
+3 0.0000 1.0000
+kids 0
+OBJECT poly
+name "blah"
+numvert 4
+18.000000 3.000000 -0.000000
+0.000000 3.000000 -9.000000
+0.000000 3.000000 -0.000000
+18.000000 3.000000 -9.000000
+numsurf 2
+SURF 0x10
+mat 1
+refs 3
+0 0 0
+1 0 0
+2 0 0
+SURF 0x10
+mat 1
+refs 3
+1 0 0
+0 0 0
+3 0 0
+kids 0
+OBJECT poly
+name "blah"
+texture "LFRU_algeco_4.png"
+numvert 4
+0.000000 3.000000 -9.000000
+0.000000 0.000000 0.000000
+0.000000 3.000000 -0.000000
+0.000000 -0.000000 -9.000000
+numsurf 2
+SURF 0x10
+mat 2
+refs 3
+0 -1.0000 1.0000
+1 0.0000 0.0000
+2 0.0000 1.0000
+SURF 0x10
+mat 2
+refs 3
+1 0.0000 0.0000
+0 -1.0000 1.0000
+3 -1.0000 0.0000
+kids 0
+OBJECT poly
+name "blah"
+texture "LFRU_algeco_3.png"
+numvert 4
+0.000000 3.000000 -9.000000
+18.000000 -0.000000 -9.000000
+0.000000 -0.000000 -9.000000
+18.000000 3.000000 -9.000000
+numsurf 2
+SURF 0x10
+mat 3
+refs 3
+0 0.0000 1.0000
+1 -1.0000 0.0000
+2 0.0000 0.0000
+SURF 0x10
+mat 3
+refs 3
+1 -1.0000 0.0000
+0 0.0000 1.0000
+3 -1.0000 1.0000
+kids 0
+OBJECT poly
+name "blah"
+texture "LFRU_algeco_2.png"
+numvert 4
+18.000000 -0.000000 -9.000000
+18.000000 3.000000 -0.000000
+18.000000 0.000000 0.000000
+18.000000 3.000000 -9.000000
+numsurf 2
+SURF 0x10
+mat 4
+refs 3
+0 1.0000 0.0000
+1 0.0000 1.0000
+2 0.0000 0.0000
+SURF 0x10
+mat 4
+refs 3
+1 0.0000 1.0000
+0 1.0000 0.0000
+3 1.0000 1.0000
+kids 0
+

@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.7324001 49.5445107 -330.31 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -1.5472222 49.6202778 67.17 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.5972222 49.6069444 143.9 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.5955556 49.6011111 123.46 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.5636111 49.5488889 87.41 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.5369444 49.5819444 139.46 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -1.6222222 49.6236111 80.01 180

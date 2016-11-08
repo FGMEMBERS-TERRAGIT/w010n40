@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<!-- Cube test		-->
+
+	<path>Pont_Du_Bonhomme_Vieux.ac</path>
+
+
+	
+
+	
+
+	<animation>
+	
+    	<type>range</type>
+    	<min-m>0</min-m>
+    	<max-property>sim/rendering/static-lod/bare</max-property>
+		
+	</animation>
+
+</PropertyList>

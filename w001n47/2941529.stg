@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -0.6425 47.4533333 -26 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.6172222 47.4375 36.93 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.5061111 47.4755556 25.73 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.57816743 47.49102664 51.25 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.57788943 47.49069764 50.76 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.57764743 47.49124364 51.81 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.57731943 47.49093764 51.46 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53866043 47.45707864 41 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53846943 47.45728764 41.18 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53819943 47.45679864 40.44 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53815043 47.45750464 41.32 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53792443 47.45697364 40.54 0
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.53765843 47.45724664 40.54 0
+OBJECT_STATIC ChateauAngers.ac -0.559697 47.469986 41.88 225

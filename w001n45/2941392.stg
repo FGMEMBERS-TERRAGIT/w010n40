@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.8719444 45.3072222 33.53 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -0.8333333 45.3358333 6.66 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -0.806594 45.359654 -0.22 198.82
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -0.7921746 45.3389267 -0.02 19.05
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -0.7785491 45.3154905 0.4 13.29
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -0.7648695 45.2926788 0.33 135.61
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.8031607 45.360574 -0.29 147.41
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.7885908 45.3394467 -0.02 193.29
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.7754697 45.3164186 0.44 174.04
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.7616405 45.2932072 -0.08 277.74
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.7504498 45.2710659 -1.99 241.8

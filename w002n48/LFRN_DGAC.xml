@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<!-- Appel du fichier LFRN_DGAC.ac -->
+	<path>LFRN_DGAC.ac</path>
+
+	
+    <animation>
+	  <type>range</type> <!-- range -->
+	  <min-m>0</min-m>
+	  <max-m>15000</max-m> <!-- 15000 -->
+    </animation>
+	
+	<!-- Eclairage léger sur batiment -->
+	  <animation>
+    	<type>material</type>
+    	<object-name>batiment</object-name>
+		<object-name>tour</object-name>
+		<object-name>VitreTinte</object-name>
+		<object-name>grillagee0</object-name>
+    	<condition>
+      		<greater-than>
+        		<property>/sim/time/sun-angle-rad</property>
+       			 <value>1.57</value>
+      		</greater-than>
+    	</condition>
+ 		<emission>
+      		<red>   0.08 </red> <!-- 0.05 -->
+ 			<green> 0.08 </green>
+      		<blue>  0.08 </blue>
+    	</emission>
+  	</animation>
+	
+	<animation>
+    	<type>material</type>
+    	<object-name>batiment</object-name>
+		<object-name>tour</object-name>
+		<object-name>VitreTinte</object-name>
+		<object-name>grillagee0</object-name>
+    	<condition>
+      		<less-than-equals>
+        		<property>/sim/time/sun-angle-rad</property>
+       			 <value>1.57</value>
+      		</less-than-equals>
+    	</condition>
+ 		<emission>
+      		<red>   0.2 </red>
+ 			<green> 0.2 </green>
+      		<blue>  0.2 </blue>
+    	</emission>
+  	</animation>
+	<!-- Fin éclairage léger sur batiment -->
+	
+	<!-- Eclairage du slogan -->
+ 	<animation>
+		<type>material</type> 
+		<object-name>Ailleurs</object-name>
+		<condition>		
+			<greater-than>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>0.9</green>	
+			<blue>0.8</blue>
+		</emission>
+	</animation>
+	
+ 	<animation>
+		<type>material</type> 
+		<object-name>Ailleurs00</object-name>
+		<condition>		
+			<greater-than>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>0.9</green>	
+			<blue>0.8</blue>
+		</emission>
+	</animation>
+	<!-- Fin éclairage du slogan -->
+
+	
+	<!-- Rotation du radar -->
+	<animation>
+    	<type>rotate</type>
+  		<object-name>radar</object-name>
+  		<property>/sim/time/elapsed-sec</property>
+  		<factor>-200.0</factor>
+  		<center>
+   			<x-m>20.74</x-m> 
+  			<y-m>-11.30</y-m> 
+  		 	<z-m>0</z-m> 
+  		</center>
+  		<axis>
+  		 <x>0</x>
+  		 <y>0</y>
+  		 <z>1</z>
+  		</axis>
+	 </animation>
+	<!-- Fin rotation du radar -->
+ 
+ 	<!-- Eclairage de la baie vitrée de la tour -->
+ 	<animation>
+		<type>material</type> 
+		<object-name>GLASS</object-name>
+		<condition>		
+			<greater-than>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>0.9</green>	
+			<blue>0.8</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>material</type> 
+		<object-name>GLASS</object-name>
+	
+		<condition>		
+			<less-than-equals>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</less-than-equals>
+		</condition>
+		<emission>	
+			<red>0</red>	
+			<green>0</green>	
+			<blue>0</blue>
+		</emission>
+	</animation>
+ 	<!-- Fin éclairage de la baie vitrée de la tour -->
+
+ 	<!-- Eclairage des boutons des écrans -->
+ 	<animation>
+		<type>material</type> 
+		<object-name>voyantEcra</object-name>
+		<object-name>voyantEcr0</object-name>
+		<object-name>voyantEcr1</object-name>
+		<condition>		
+			<greater-than>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>	
+			<red>0</red>	
+			<green>2</green>	
+			<blue>0</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>material</type> 
+		<object-name>voyantEcra</object-name>
+		<object-name>voyantEcr0</object-name>
+		<object-name>voyantEcr1</object-name>
+	
+		<condition>		
+			<less-than-equals>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</less-than-equals>
+		</condition>
+		<emission>	
+			<red>0</red>	
+			<green>2</green>	
+			<blue>0</blue>
+		</emission>
+	</animation>
+ 	<!-- Fin éclairage des boutons des écrans -->
+
+ 	<!-- Eclairage écranss -->
+ 	<animation>
+		<type>material</type> 
+		<object-name>screen1</object-name>
+		<object-name>screen2</object-name>
+		<object-name>screen3</object-name>
+		<condition>		
+			<greater-than>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>1</green>	
+			<blue>1</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>material</type> 
+		<object-name>screen1</object-name>
+		<condition>		
+			<less-than-equals>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</less-than-equals>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>1</green>	
+			<blue>1</blue>
+		</emission>
+	</animation>
+	
+		<animation>
+		<type>material</type> 
+		<object-name>screen2</object-name>
+		<object-name>screen3</object-name>
+	
+		<condition>		
+			<less-than-equals>		
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</less-than-equals>
+		</condition>
+		<emission>	
+			<red>1</red>	
+			<green>1</green>	
+			<blue>1</blue>
+		</emission>
+	</animation>
+ 	<!-- Fin éclairage écranss -->
+	
+	<!-- Lumière antenne -->
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>20.8</x-m>
+	     <y-m>-7.55</y-m>
+	     <z-m>31.3</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<!-- Fin lumière antenne -->
+	
+	<!-- Lumières de positions sur tour de contrôle -->
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>25.2</x-m>
+	     <y-m>-13</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+	 <model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>25.2</x-m>
+	     <y-m>-2</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+    <model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>19.5</x-m>
+	     <y-m>-0.5</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>14.5</x-m>
+	     <y-m>-4.3</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>14.5</x-m>
+	     <y-m>-10.65</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>19.5</x-m>
+	     <y-m>-14.3</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+ 	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>28</x-m>
+	     <y-m>-7.5</y-m>
+	     <z-m>24.4</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<!-- Fin lumières de position sur tour de contrôle -->
+	
+	
+	<!-- Lumières de positions batîment -->
+ 	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>30.6</x-m>
+	     <y-m>-14.6</y-m>
+	     <z-m>12.1</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+ 	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>29.4</x-m>
+	     <y-m>4.7</y-m>
+	     <z-m>12.1</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+ 	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>-27.8</x-m>
+	     <y-m>4.7</y-m>
+	     <z-m>12.1</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	
+ 	<model>
+	  <path>Models/Effects/RedLight10000.xml</path> 
+	  <offsets> 
+	     <x-m>-31.6</x-m>
+	     <y-m>-14.6</y-m>
+	     <z-m>12.1</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+	<!-- Fin Lumières de positions batîment -->
+	
+	<!-- Strobe sur tour -->
+    <model>
+	  <path>Models/Effects/strobe10000.xml</path> 
+	  <offsets> 
+	     <x-m>20.8</x-m>
+	     <y-m>-5</y-m>
+	     <z-m>24</z-m>
+	     <heading-deg>0</heading-deg>
+	  </offsets>
+    </model>
+
+
+</PropertyList>
