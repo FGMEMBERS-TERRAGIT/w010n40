@@ -2,6 +2,7 @@ OBJECT_SHARED Models/Industrial/water-tower.ac -0.0280556 49.2733333 138.22 180
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -0.0957153 49.3193561 -1.01 128.49
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.0923816 49.3048791 -0.04 159.53
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.0915879 49.3016088 -0.02 68.48
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -0.247918 49.279917 1.68 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -0.0926936 49.3076904 -0.04 150.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -0.0911933 49.3077676 -0.04 27.31
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -0.1393435 49.290368 2.34 4.92

@@ -78,6 +78,10 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.9254407 48.6273849 74.3 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.9254407 48.6273849 74.3 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.9136558 48.659757 53.1 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.9136558 48.659757 53.1 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.980506 48.722547 4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.89 48.675 -2.41 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.888974 48.673551 -2.41 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.87553 48.672528 -2.41 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -3.97684 48.73165 0 92.74
 OBJECT_STATIC Ile_Louet.xml -3.889028 48.6736 -0.01 0
 OBJECT_STATIC Ile_Noire.xml -3.87561338 48.6725851 -0.01 0

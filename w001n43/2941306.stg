@@ -14,10 +14,10 @@ OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.49477269 43.9103798
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.49353616 43.91036662 61.17 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.49241251 43.91045848 59.25 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.49124502 43.91048768 58.15 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.49986438 43.91048046 59.45 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.49945351 43.91048888 59.51 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.49901534 43.91049012 59.58 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.49870383 43.91050476 59.63 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.49986438 43.91048046 59.45 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.49945351 43.91048888 59.51 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.49901534 43.91049012 59.58 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.49870383 43.91050476 59.63 0
 OBJECT_SHARED Models/Aircraft/superfrelon.xml -0.49581842 43.91057397 59.8 0
 OBJECT_SHARED Models/Aircraft/superfrelon.xml -0.49377478 43.91071826 59.75 0
 OBJECT_SHARED Models/Aircraft/superfrelon.xml -0.49322174 43.91063116 59.59 0

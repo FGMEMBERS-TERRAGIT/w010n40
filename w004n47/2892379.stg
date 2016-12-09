@@ -49,3 +49,14 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.1296744 47.490052 21.67 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.1296744 47.490052 21.67 180
 OBJECT_SHARED Models/Misc/gothical_church.xml -3.118654 47.4835562 18.85 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -3.1214099 47.4723345 -0.03 2.03
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -3.0613601 47.4670054 -0.85 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -3.0415592 47.4907938 -1 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -3.0748125 47.4035461 -4.88 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -3.0176668 47.3875527 -1.83 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -3.0075289 47.4069439 -2.81 0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -3.0215301 47.4723528 -2.26 96
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -3.0108377 47.4595798 -3.19 0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -3.00312 47.4598932 -3.28 288
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -3.0268723 47.4181359 -2.92 120
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -3.0143083 47.4435973 -3.57 0
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -3.1009772 47.4805791 10.34 0

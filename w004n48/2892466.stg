@@ -147,5 +147,9 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -3.30663 48.83711 3.12 3.
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.4734702 48.7514761 86.74 100
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.4734434 48.7509609 86.41 100
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.4723544 48.7514915 86.91 94
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.490095 48.838333 -2.41 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.470737 48.780156 71.59 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.445 48.796666 23.12 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.312294 48.83669 -0.18 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -3.4036667 48.8265 -0.02 72.98
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -3.428 48.8486667 -0.48 306.02

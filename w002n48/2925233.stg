@@ -1,2 +1,4 @@
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.5283333 48.7622222 88.5 180
 OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac -1.57765 48.85814 10.31 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.613077 48.834379 18.6 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.604138 48.826313 -2.4 0

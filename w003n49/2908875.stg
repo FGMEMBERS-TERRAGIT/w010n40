@@ -8,6 +8,11 @@ OBJECT_SHARED Models/Airport/localizer.xml -2.208308 49.206872 74.1 352.7
 OBJECT_SHARED Models/Airport/localizer.xml -2.178531 49.209411 82.37 172.59
 OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -2.11278 49.18056 0 190
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.2392527 49.1812892 0 193.02
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.114695 49.176164 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.103333 49.149999 -5.33 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.084854 49.169324 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.022272 49.19682 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.010489 49.222246 -2.88 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -2.02378 49.215 -0.03 59.52
 OBJECT_STATIC Seymour_Tower.xml -2.02942626 49.1645792 -0.01 264
 OBJECT_STATIC Demie_de_Pas_Lighthouse.xml -2.11578166 49.166498 -0.58 0

@@ -1,4 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac -8.603244 42.318194 195.97 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -8.601636 42.321308 260.43 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.703333 42.259998 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.7021167 42.2595667 17.01 0
 OBJECT_SHARED Models/Misc/toro_osborne.ac -8.611991778 42.348642184 26.12 0

@@ -49,3 +49,5 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.913532 48.629944 56.51 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.913532 48.629944 56.51 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.8617662 48.67412 48.05 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.8617662 48.67412 48.05 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.978331 48.671089 27.69 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.8150667 48.7294333 -4.38 0

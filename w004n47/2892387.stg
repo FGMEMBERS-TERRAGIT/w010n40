@@ -79,3 +79,5 @@ OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml -3.22555633 47.602
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -3.23834148 47.62090299 -0.57 0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -3.20367244 47.52583294 -1.8 0
 OBJECT_SHARED Models/Maritime/Civilian/Trawler.xml -3.23326072 47.53371322 -3.04 0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -3.0131864 47.5110366 -0.92 0
+OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -3.09504805 47.5136207 -1.1 80

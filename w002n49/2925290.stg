@@ -9,6 +9,7 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3822134 49.6533862 117.53 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3800166 49.6523635 116.14 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3768651 49.649253 119.69 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.374582 49.6488364 118.98 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.265831 49.696436 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.36914 49.734768 -4.23 288.76
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.30689 49.7274 -1.61 352.86
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.48575 49.72598 -0.73 118.92

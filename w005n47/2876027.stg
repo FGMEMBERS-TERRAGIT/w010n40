@@ -167,3 +167,5 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -4.1333179 47.998606 84.09 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -4.1095475 47.877724 24.69 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -4.1095475 47.877724 24.69 180
 OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac -4.1751632 47.973209 89.6 204
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -4.1759017 47.9737331 89.69 288
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac -4.1744334 47.9727666 89.44 216

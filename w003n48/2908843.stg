@@ -39,6 +39,9 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.0616756 48.637688 29.59 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.0028332 48.626624 40.68 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.0028332 48.626624 40.68 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.02397 48.62762 0 75.51
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.082786 48.670021 -2.52 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.021681 48.636087 8.77 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.00395 48.6266167 38.2 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.0272206 48.6258961 0 12.11
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.02199 48.62827 0 105.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.01993 48.6284 3.25 97.62

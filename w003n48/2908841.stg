@@ -8,3 +8,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.6294271 48.6467388 -0.31 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.6288996 48.6467028 -0.3 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.5678252 48.6499452 -0.28 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.5244053 48.6418295 -0.63 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.6646 48.74845 -2.83 0

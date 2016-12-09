@@ -10,3 +10,15 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -4.7953935 48.0713617 -2.63 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.7564448 48.0406734 -3.28 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -4.866887 48.043551 2.95 0
 OBJECT_SHARED Models/Airport/helipad_circle.xml -4.854033 48.035508 0.34 80
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -4.8659703 48.0497662 -0.25 240
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -4.8483426 48.0521699 -0.75 312
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -4.7782257 48.0467408 -3.05 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -4.7697163 48.0357771 -2.82 288
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -4.8467202 48.0166098 -2.98 0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -4.8248623 48.0444709 -0.89 288
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -4.7975934 48.0311053 -1.59 288
+OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -4.9749218 48.0504532 -3.7 264
+OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -4.9609273 48.0481899 -3.43 264
+OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -4.9299914 48.0439042 -2.22 264
+OBJECT_SHARED Models/Maritime/Civilian/trimaran_lowpoly.ac -4.8891014 48.0564567 -1.56 264
+OBJECT_STATIC ar_men.ac -4.997206 48.050367 -3.98 80
