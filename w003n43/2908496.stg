@@ -100,3 +100,15 @@ OBJECT_SIGN {@Y3}C1-C2{@ru} -2.90085664 43.29777391 32.93 244
 OBJECT_SIGN {@Y}C1-C2{@u} -2.89739522 43.29677916 30.79 284
 OBJECT_SIGN {@L}C2{@R}30-ILS -2.89626036 43.2972141 29.93 152
 OBJECT_SIGN {@L}C1{@R}30-ILS -2.89529017 43.29671989 30 144
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -2.80567 43.33928 36.71 45.33
+OBJECT_SHARED Models/lib/cars10.ac -2.80594 43.33908 35.57 45.33
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80639 43.34000 36.59 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80538 43.33968 37.69 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80544 43.33949 37.31 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80549 43.33945 37.24 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80554 43.33942 37.03 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.80558 43.33938 36.98 0
+# END dsf2stg
