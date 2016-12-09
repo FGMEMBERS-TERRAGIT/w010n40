@@ -13,10 +13,10 @@ OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml -0.50291654 43.90968989 
 OBJECT_SHARED Models/Airport/hangar3.ac -0.50172967 43.91000012 59.23 0
 OBJECT_SHARED Models/Airport/thangar2.ac -0.50649416 43.90974587 54.67 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.50112403 43.91009918 59.04 0
-OBJECT_SHARED Models/Aircraft/rafale-marine.ac -0.50385696 43.91027756 58.28 216
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.50143833 43.91042151 59.08 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.50065539 43.91044911 59.27 0
-OBJECT_SHARED Models/Aircraft/rafale.ac -0.50028006 43.91046908 59.37 0
+OBJECT_SHARED Models/Aircraft/rafaleM_lowpoly.ac -0.50385696 43.91027756 58.28 216
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.50143833 43.91042151 59.08 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.50065539 43.91044911 59.27 0
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -0.50028006 43.91046908 59.37 0
 OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml -0.50433709 43.9110105 59.01 0
 OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml -0.50326265 43.91103523 59.36 0
 OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml -0.50187194 43.91107202 59.75 0

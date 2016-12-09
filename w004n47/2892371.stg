@@ -85,3 +85,7 @@ OBJECT_SHARED Models/Maritime/Misc/Saint_Mathieu_Signal_Tower.xml -3.15761 47.36
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.1822981 47.349898 48.76 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.1822981 47.349898 48.76 180
 OBJECT_SHARED Models/Misc/gothical_church.xml -3.15606 47.35696 2.19 265
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -3.2391057 47.2699416 -0.55 0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -3.1864729 47.2662284 -2.19 0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -3.1988323 47.3249818 52.62 236
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -3.1978841 47.3257953 51.71 24

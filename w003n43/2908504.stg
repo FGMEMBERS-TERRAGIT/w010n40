@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.94375 43.4335 126.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.943333 43.433334 145.94 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.753333 43.453335 112.1 0
 # dsf2stg
@@ -29,3 +30,4 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99131 43.39116 4.07 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39084 7.00 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -2.99147 43.39097 5.44 0
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.75285 43.45425 92.62 0

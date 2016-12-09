@@ -10,5 +10,6 @@ OBJECT_SHARED Models/Power/windturbine.xml -8.9430267 43.285184 133.28 0
 OBJECT_SHARED Models/Power/windturbine.xml -8.9422958 43.285051 134.59 0
 OBJECT_SHARED Models/Power/windturbine.xml -8.9414051 43.284652 141.84 0
 OBJECT_SHARED Models/Power/windturbine.xml -8.9408341 43.2843194 144.56 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.91005 43.3206667 18.98 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.908334 43.321667 0 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.845 43.360001 86.84 0

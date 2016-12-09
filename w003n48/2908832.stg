@@ -255,3 +255,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac -2.85191 48.53614 134.11 301.67
 OBJECT_SHARED Models/lib/office40x25.ac -2.85230 48.53561 134.65 122.4
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.85314 48.53528 134.59 32.31
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.815319 48.601175 -2.4 0

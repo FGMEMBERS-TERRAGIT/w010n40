@@ -9,5 +9,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.8399838 47.4999432 36.77 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.8399599 47.499968 37.09 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.8399441 47.4999546 36.72 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.8343336 47.4925207 2.81 180
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -2.9939184 47.4602808 -2.31 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -2.9744548 47.4364841 -2.69 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -2.7894 47.4305 -3.35 349.23
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -2.84 47.4267 -4.53 18.81

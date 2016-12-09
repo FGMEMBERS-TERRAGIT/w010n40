@@ -1,4 +1,5 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.8183333 49.6672222 3.07 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -1.9544444 49.7227778 0.77 180
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.83091 49.7054 -0.01 85.38
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.954337 49.721898 -2.53 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.85308 49.72994 -1.66 82.64

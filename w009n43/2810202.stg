@@ -1,4 +1,7 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml -8.306822 43.396158 115.73 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.40655 43.3859333 39.48 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.3512667 43.3826667 40.94 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.340404 43.458755 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.2758333 43.4601667 -1.56 0
 OBJECT_STATIC torre_hercules.ac -8.40633872 43.3859679 41.08 300
 OBJECT_STATIC rosa_vientos.ac -8.40769578 43.3867446 26.05 76

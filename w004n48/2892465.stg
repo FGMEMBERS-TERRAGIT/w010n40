@@ -21,5 +21,6 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.5566494 48.784108 46.8 180
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.517662 48.785022 48.89 55
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.517466 48.783019 38.89 35
 OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -3.514729 48.785653 58.78 123
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.548666 48.871666 -5.56 0
 OBJECT_STATIC radome-cornet.ac -3.52373031 48.78588891 45.26 92
 OBJECT_STATIC cite_telecoms.ac -3.52467441 48.78656006 39.94 92

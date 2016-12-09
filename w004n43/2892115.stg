@@ -18,6 +18,8 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -3.0392426 43.3660197 -0.03 165.2
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -3.0301854 43.3548608 -0.06 95.5
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -3.0237605 43.3493078 0.06 4.77
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.033333 43.373333 58.26 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.0316833 43.3464667 -1.62 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.0277167 43.3419667 -2.4 0
 OBJECT_STATIC tcom_girona.ac -3.0364972 43.2773135 542.68 0
 # dsf2stg
 # do not edit below this line
