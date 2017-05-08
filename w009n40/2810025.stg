@@ -1,1 +1,7 @@
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -8.747932 40.642437 3.85 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -8.73873 40.65902 1.94 66.89
+OBJECT_SHARED Models/lib/large-hangar.ac -8.73765 40.65898 3.35 337.07
+# END dsf2stg

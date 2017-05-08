@@ -65,3 +65,10 @@ OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac -5.0621989 48.4624292 36
 OBJECT_STATIC Pierres_Noires_Lighthouse.xml -5.15094817 48.44599036 -0.57 0
 OBJECT_STATIC Feu_de_Men_Korn-Lighthouse.xml -5.02243755 48.4668291 -0.49 0
 OBJECT_STATIC Phare_de_la_Jument_Lighthouse.xml -5.13260798 48.4203939 -2.15 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.06252 48.46190 36.40 220.45
+OBJECT_SHARED Models/Transport/hatchback_red.ac -5.06258 48.46189 36.41 220.46
+OBJECT_SHARED Models/lib/NoParkStripes.xml -5.06257 48.46223 36.73 127.87
+# END dsf2stg
