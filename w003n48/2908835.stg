@@ -72,7 +72,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.0033291 48.5277278 58.8 180
 OBJECT_SHARED Models/Airport/ils.xml -2.076614 48.581314 60.41 9.57
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.082333 48.586056 63.18 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.076614 48.581314 60.41 180
-OBJECT_SHARED Models/Airport/localizer.xml -2.083111 48.599972 55.77 80.23
+OBJECT_SHARED Models/Airport/localizer.xml -2.083111 48.599972 55.77 9.57
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.1998613 48.5360639 34.49 0
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.0841393 48.5509039 60.42 0
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.0740933 48.5491074 45.34 0
@@ -252,3 +252,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.0269118 48.6222416
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.0213691 48.6142411 0 16.2
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.0199157 48.6118367 0 311.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.0162 48.61293 0.58 111.35
+OBJECT_STATIC Rance.ac -2.02295 48.61807 0 90.3

@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ils.xml -0.447111 49.173322 68.33 55.08
-OBJECT_SHARED Models/Communications/vordme_1.xml -0.45528 49.1732 75.13 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -0.3563889 49.2058333 -332.28 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -0.3286111 49.2027778 -356.59 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.2555556 49.2333333 -402.64 180
@@ -132,4 +131,5 @@ OBJECT_SHARED Models/Misc/apronworker1.xml -0.45891677 49.18292837 63.77 0
 OBJECT_SHARED Models/Misc/apronworker2.xml -0.45825077 49.18309685 63.39 0
 OBJECT_SHARED Models/Misc/apronworker4.xml -0.45788629 49.18293256 63.33 0
 OBJECT_SHARED Models/Sport/GenericStadium.xml -0.3967303 49.1797936 41.28 165
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -0.45528 49.1732 75.13 180
 OBJECT_STATIC LFRK_aerogare.ac -0.4583096 49.1833804 63.3 236

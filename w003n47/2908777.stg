@@ -58,9 +58,9 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.5040619 47.6771883 121.82 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.5012169 47.7420882 80.67 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.5010219 47.7417669 80.56 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.5010218 47.7417672 80.56 180
-OBJECT_SHARED Models/Airport/ils.xml -2.725906 47.717156 124.13 39.13
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.5716667 47.6763889 85.62 180
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -2.7288367 47.7214611 132.27 52
+OBJECT_SHARED Models/Airport/localizer.xml -2.725906 47.717156 124.13 39.13
 OBJECT_SHARED Models/Trees/billboard-tree.xml -2.7345208 47.7246646 133.27 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -2.7344435 47.7248517 133.52 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -2.7335278 47.7242643 133.44 0

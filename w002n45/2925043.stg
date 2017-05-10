@@ -12,3 +12,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1964037 45.802261 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1873617 45.8239049 -0.02 336.32
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.1769414 45.8292551 0 212.14
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.2280192 45.7964345 -0.03 177.77
+OBJECT_STATIC Oleron.ac -1.18112 45.85368 0 139.1

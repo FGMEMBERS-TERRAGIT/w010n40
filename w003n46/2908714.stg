@@ -97,5 +97,9 @@ OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -2.34538854 46.69
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -2.34494282 46.69414099 4.42 0
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.38940052 46.7189736 16.7 132
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.38920226 46.71879858 16.94 132.4
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -2.3881458 46.7174547 18.88 40
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -2.3911414 46.719467 16.35 192
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -2.3908264 46.7196892 16.09 192
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -2.3884366 46.7172914 18.69 40
 OBJECT_STATIC Ile_d_Yeu_Lighthouse.xml -2.38196314 46.71775787 22.18 167.9
 OBJECT_STATIC Corbeaux_Lighthouse.xml -2.28531728 46.6901034 2.78 84

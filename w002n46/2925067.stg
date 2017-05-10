@@ -14,7 +14,7 @@ OBJECT_SHARED Models/Industrial/Gasometer.ac -1.18867359 46.17332345 11.98 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank75m.ac -1.2172985 46.16274984 -71.06 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank75m.ac -1.21693232 46.16069785 6 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml -1.21798696 46.16385413 10.46 0
-OBJECT_SHARED Models/Airport/localizer.xml -1.212769 46.179728 15.82 2.43
+OBJECT_SHARED Models/Airport/localizer.xml -1.212769 46.179728 15.82 88
 OBJECT_SHARED Models/Residential/banlieue.xml -1.21641774 46.16888346 7.95 328
 OBJECT_SHARED Models/Residential/banlieue.xml -1.21190436 46.16678053 10.91 0
 OBJECT_SHARED Models/Residential/banlieue.xml -1.21178186 46.17040853 6.73 96

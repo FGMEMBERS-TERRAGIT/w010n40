@@ -2,7 +2,7 @@ OBJECT_SHARED Models/Airport/ndb.ac -6.028392 43.557842 126.75 180
 OBJECT_SHARED Models/Airport/ils.xml -6.024631 43.562244 122.91 72.33
 OBJECT_SHARED Models/Communications/vordme_1.xml -6.030669 43.564592 123.87 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -6.024594 43.56235 122.87 180
-OBJECT_SHARED Models/Airport/localizer.xml -6.049461 43.567081 116.49 18.08
+OBJECT_SHARED Models/Airport/localizer.xml -6.049461 43.567081 116.49 72.33
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.242983 43.593266 35.36 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.144633 43.565369 0 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.0803 43.56465 0.19 0

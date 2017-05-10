@@ -53,7 +53,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.7569824 48.6021012 86.32 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.7569824 48.6021012 86.32 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.7568266 48.6022514 85.43 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.93329 48.528721 109.86 0
-OBJECT_SHARED Models/Communications/radio-medium.xml -3.826471 48.579609 -0.16 0
+OBJECT_SHARED Models/Communications/vordme_1.xml -3.824208 48.597189 72.22 0
 OBJECT_SHARED Models/Communications/cell-monopole2-75m.xml -3.937695 48.526215 100.62 0
 OBJECT_SHARED Models/Communications/cell-monopole2-75m.xml -3.935625 48.527959 105.3 0
 OBJECT_SHARED Models/Communications/cell-monopole2-75m.xml -3.892328 48.606512 94.28 0
@@ -275,7 +275,9 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml -3.87895 48.540897 118.3 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.8240536 48.566891 92.84 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -3.8240536 48.566891 92.84 180
 OBJECT_SHARED Models/Airport/maszt.ac -3.812838 48.594252 87.34 0
+OBJECT_SHARED Models/Communications/mil-antena-118m.xml -3.82653 48.57962 14.19 0
 OBJECT_STATIC LFRU_algeco.ac -3.817965 48.598695 81.6 319.6
 OBJECT_STATIC LFRU_former_customs.ac -3.816299 48.599072 84.89 316
 OBJECT_STATIC LFRU_langolvas_watertower.ac -3.805893 48.583062 96.57 137.2
 OBJECT_STATIC morlaix_hospital.ac -3.8308884 48.5693699 78.24 0
+OBJECT_STATIC Morlaix.ac -3.8293 48.57902 5.39 292

@@ -1,19 +1,18 @@
 OBJECT_SHARED Models/Airport/ils.xml -0.704939 44.837819 46.6 133.67
 OBJECT_SHARED Models/Airport/ils.xml -0.703878 44.825217 48.96 72.67
 OBJECT_SHARED Models/Airport/tacan.xml -0.723278 44.827167 47.52 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -0.721111 44.826944 47.58 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -0.50549 44.81984 -292.75 0
 OBJECT_SHARED Models/Communications/vordme_1.xml -0.704939 44.837817 46.6 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -0.703878 44.825217 48.96 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.5044444 44.8469444 -381.11 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -0.6013889 44.8413889 -35.87 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac -0.5044444 44.8205556 118.83 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.5166667 44.7638889 -18.54 180
 OBJECT_SHARED Models/Communications/radome-4m.xml -0.691897 44.831469 47.29 0
 OBJECT_SHARED Models/Airport/blast-deflector63m.xml -0.69465472 44.83668443 46.25 158
 OBJECT_SHARED Models/Airport/blast-deflector63m.xml -0.69441007 44.83724738 46.2 167.7
 OBJECT_SHARED Models/Industrial/water-tower.ac -0.75 44.8675 40.5 180
-OBJECT_SHARED Models/Airport/localizer.xml -0.734636 44.815136 48.88 315.35
-OBJECT_SHARED Models/Airport/localizer.xml -0.732844 44.832308 46.96 16.43
+OBJECT_SHARED Models/Airport/localizer.xml -0.734636 44.815136 48.88 135
+OBJECT_SHARED Models/Airport/localizer.xml -0.732844 44.832308 46.96 74
 OBJECT_SHARED Models/Residential/banlieue.xml -0.72620428 44.84313777 48.04 0
 OBJECT_SHARED Models/Residential/banlieue.xml -0.67033821 44.82633551 40.84 356
 OBJECT_SHARED Models/Airport/apt-light.xml -0.71419694 44.83971995 47.24 0
@@ -111,3 +110,4 @@ OBJECT_SHARED Models/StreetFurniture/park-lined.ac -0.68827522 44.8281385 47.87 
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -0.68822103 44.82791715 47.9 10.1
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -0.68796091 44.82817627 47.85 9.8
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -0.68790618 44.82795402 47.88 190.7
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -0.721111 44.826944 47.58 180

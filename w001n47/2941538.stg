@@ -1,8 +1,8 @@
-OBJECT_SHARED Models/Airport/ils.xml -0.307987 47.561736 54.27 135.93
+OBJECT_SHARED Models/Airport/ils.xml -0.307987 47.561736 54.27 99
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.4183333 47.5194444 -21.97 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.3036111 47.6091667 39.95 180
 OBJECT_SHARED Models/Airport/Pushback/B-1200.xml -0.31289442 47.56270981 51.3 0
-OBJECT_SHARED Models/Airport/localizer.xml -0.325399 47.558861 46.39 351
+OBJECT_SHARED Models/Airport/localizer.xml -0.325399 47.558861 46.39 99
 OBJECT_SHARED Models/Airport/FGRefuel02.xml -0.311997 47.562526 51.85 190
 OBJECT_SHARED Models/Trees/coniferous-tree.xml -0.31468034 47.56497284 54.86 0
 OBJECT_SHARED Models/Trees/coniferous-tree.xml -0.30339449 47.55732391 53.43 0

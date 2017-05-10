@@ -4,5 +4,5 @@ OBJECT_SHARED Models/Airport/ils.xml -1.112439 44.538819 24.67 121.7
 OBJECT_SHARED Models/Airport/tacan.xml -1.136028 44.531167 18.89 180
 OBJECT_SHARED Models/Airport/marker.ac -1.102375 44.544867 25.39 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.17 44.6186111 20.9 180
-OBJECT_SHARED Models/Airport/localizer.xml -1.142947 44.525706 22.91 326.46
-OBJECT_SHARED Models/Airport/localizer.xml -1.107457 44.542465 23.85 146.48
+OBJECT_SHARED Models/Airport/localizer.xml -1.142947 44.525706 22.91 121.7
+OBJECT_SHARED Models/Airport/localizer.xml -1.107457 44.542465 23.85 303.6

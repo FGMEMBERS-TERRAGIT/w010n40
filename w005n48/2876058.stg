@@ -507,6 +507,16 @@ OBJECT_SHARED Models/Airport/llz_monitor_aerial.xml -4.391093 48.453951 90.02 28
 OBJECT_SHARED Models/Airport/TransmissometerRVRduo.xml -4.43528218 48.44342779 85.08 288
 OBJECT_SHARED Models/Airport/TransmissometerRVRduo.xml -4.41794083 48.44738509 91.87 289.6
 OBJECT_SHARED Models/Airport/TransmissometerRVRduo.xml -4.40695848 48.45155694 91.59 287.2
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4417049 48.4413312 86.15 144
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4391208 48.4414368 84.26 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4379309 48.4414732 85.92 312
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4209564 48.4508733 90.49 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4161755 48.4517955 92.03 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.3963836 48.4503041 84.47 264
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.3957191 48.4504697 85.98 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.3943777 48.4546285 86.99 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.3924529 48.4518422 87.67 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.3924396 48.4547673 92.05 288
 OBJECT_STATIC pont_iroise.xml -4.39855055 48.38847781 7.19 308
 OBJECT_STATIC pont_louppe.xml -4.40147303 48.38738308 0 308
 OBJECT_STATIC LFRB_fuel_depot.ac -4.41864726 48.4446139 89.06 108.8
