@@ -60,3 +60,5 @@ OBJECT_SHARED Models/lib/MedHangar.ac -1.11513 44.59865 13.51 66.1295
 OBJECT_SHARED Models/lib/MedHangar.ac -1.11508 44.59830 13.30 245.887
 OBJECT_SHARED Models/lib/SmHangar.ac -1.11799 44.59742 13.23 107.147
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml -1.142947 44.525706 22.91 121.7
+OBJECT_SHARED Models/Airport/localizer.xml -1.107457 44.542465 23.85 303.6

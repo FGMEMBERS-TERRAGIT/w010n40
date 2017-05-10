@@ -80,7 +80,7 @@ OBJECT_SHARED Models/Industrial/WaterWorks50m.xml -1.735117 48.098337 24.34 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml -1.735031 48.098895 25.06 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml -1.73428 48.09828 25.55 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml -1.734191 48.098843 24.96 0
-OBJECT_SHARED Models/Airport/localizer.xml -1.748314 48.073961 22.64 10.68
+OBJECT_SHARED Models/Airport/localizer.xml -1.748314 48.073961 22.64 79.38
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.7174761 48.1093906 28.66 292.72
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.715631 48.1064475 24.9 292.72
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.7483601 48.0518371 26.68 180

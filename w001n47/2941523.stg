@@ -1,3 +1,15 @@
 OBJECT_SHARED Models/Airport/ndb.ac -0.114361 47.2595 80.82 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.0247222 47.3108333 -14.06 180
 OBJECT_SHARED Models/Industrial/generic_silo_2.ac -0.1041667 47.3666667 -4.31 180
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -0.10882 47.25925 77.8 354
+OBJECT_SHARED Models/Airport/EDXW_Hangar25x15.ac -0.11739 47.25871 81.42 85
+OBJECT_SHARED Models/Airport/EDXW_Hangar25x15.ac -0.11676 47.25867 81.32 85
+OBJECT_SHARED Models/Airport/hangar5.xml -0.10788 47.25457 74.04 240
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac -0.10849 47.25479 75.06 150
+OBJECT_SHARED Models/Airport/Club_House.ac -0.1155 47.25866 81.12 265
+OBJECT_SHARED Models/Airport/Hangar_20x25m.ac -0.10895 47.25843 79.14 354
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac -0.11625 47.25853 81.25 355
+OBJECT_SHARED Models/StreetFurniture/lesRosiers.ac -0.23036 47.34545 26.84 329.25
+OBJECT_SHARED Models/StreetFurniture/lesRosiers.ac -0.22774 47.34847 27.02 329.5
+OBJECT_SHARED Models/StreetFurniture/saumur.ac -0.07551 47.26233 30.41 321.7
+OBJECT_SHARED Models/StreetFurniture/saumurNord.ac -0.070787 47.266396 22 321.7

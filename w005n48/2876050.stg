@@ -166,6 +166,24 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -4.2844452 48.2856
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -4.282617 48.2878241 4.41 299.43
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -4.4147195 48.2959069 -0.11 5.74
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -4.4833333 48.33 -0.64 343
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4597307 48.2765423 46.58 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.45799 48.276937 53.13 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4561113 48.2779487 63.09 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4510728 48.2836408 83.35 24
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4509814 48.2838684 83.5 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4508776 48.2842539 83.63 144
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4508146 48.2846898 82.59 264
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4500279 48.2764741 77.62 72
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4491097 48.276315 78.15 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.440904 48.2858232 79.39 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4405086 48.2858992 79.05 264
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4400557 48.2862006 78.32 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4356793 48.2787158 79.5 0
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4348088 48.2784175 79.56 288
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4332876 48.278405 80.1 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4321496 48.2782292 79.41 48
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4300072 48.2803906 78.1 72
+OBJECT_SHARED Models/Residential/french_house_w.ac -4.4283542 48.2793632 73.49 0
 OBJECT_STATIC brest_piers.ac -4.49912001 48.37048671 -0.26 90.8
 # dsf2stg
 # do not edit below this line

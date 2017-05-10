@@ -1,13 +1,14 @@
+OBJECT_SHARED Models/Airport/ndb.ac -2.219925 49.205914 8.67 0
 OBJECT_SHARED Models/Airport/ils.xml -2.201917 49.208372 78.09 275.69
 OBJECT_SHARED Models/Airport/ils.xml -2.189197 49.209431 82.54 95.7
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.201906 49.208325 78.14 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.189192 49.209383 82.5 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -2.046111 49.221111 0 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.1075 49.1755556 -408.26 180
-OBJECT_SHARED Models/Airport/localizer.xml -2.208308 49.206872 74.1 352.7
-OBJECT_SHARED Models/Airport/localizer.xml -2.178531 49.209411 82.37 172.59
+OBJECT_SHARED Models/Airport/localizer.xml -2.208308 49.206872 74.1 95.7
+OBJECT_SHARED Models/Airport/localizer.xml -2.178531 49.209411 82.37 275.69
 OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -2.11278 49.18056 0 190
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.2392527 49.1812892 0 193.02
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -2.046111 49.221111 0 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.114695 49.176164 -2.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.103333 49.149999 -5.33 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.084854 49.169324 -2.4 0

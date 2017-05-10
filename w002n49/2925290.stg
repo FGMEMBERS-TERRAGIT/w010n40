@@ -1,10 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac -1.372218 49.638031 117.42 0
 OBJECT_SHARED Models/Airport/ils.xml -1.457308 49.647456 128.58 79.51
 OBJECT_SHARED Models/Communications/vordme_1.xml -1.457308 49.647456 128.58 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.4771723 49.7261868 -25.86 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.4059492 49.7024042 -24.34 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.3141667 49.625 70.12 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -1.2658333 49.6972222 24.98 180
-OBJECT_SHARED Models/Airport/localizer.xml -1.49035 49.652631 128 10.78
+OBJECT_SHARED Models/Airport/localizer.xml -1.49035 49.652631 128 79.51
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3822134 49.6533862 117.53 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3800166 49.6523635 116.14 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml -1.3768651 49.649253 119.69 0

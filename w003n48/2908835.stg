@@ -72,7 +72,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.0033291 48.5277278 58.8 180
 OBJECT_SHARED Models/Airport/ils.xml -2.076614 48.581314 60.41 9.57
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.082333 48.586056 63.18 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.076614 48.581314 60.41 180
-OBJECT_SHARED Models/Airport/localizer.xml -2.083111 48.599972 55.77 80.23
+OBJECT_SHARED Models/Airport/localizer.xml -2.083111 48.599972 55.77 9.57
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.1998613 48.5360639 34.49 0
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.0841393 48.5509039 60.42 0
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -2.0740933 48.5491074 45.34 0
@@ -373,3 +373,4 @@ OBJECT_SHARED Models/lib/garden-shed.ac -2.07001 48.58652 63.49 154.963
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -2.07547 48.58915 57.53 99.4333
 OBJECT_SHARED Models/lib/FireStationLg.ac -2.07576 48.58857 58.38 190.515
 # END dsf2stg
+OBJECT_STATIC Rance.ac -2.02295 48.61807 0 90.3

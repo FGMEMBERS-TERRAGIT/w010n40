@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Airport/marker.ac -0.380556 43.916639 79.78 180
 OBJECT_SHARED Models/Military/t2.ac -0.49812373 43.90992429 60.52 272
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.3061111 43.9263889 71.78 180
 OBJECT_SHARED Models/Airport/GenericFuelStore5.ac -0.49998343 43.909689 58.58 0
-OBJECT_SHARED Models/Airport/localizer.xml -0.485341 43.912342 57.92 177.24
+OBJECT_SHARED Models/Airport/localizer.xml -0.485341 43.912342 57.92 272.9
 OBJECT_SHARED Models/Residential/immeuble3.xml -0.49896742 43.90226384 51.27 0
 OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml -0.498782 43.90997886 60.46 0
 OBJECT_SHARED Models/Airport/EHAM_lichtmastdubbelgroot.ac -0.49948718 43.91019634 59.82 0

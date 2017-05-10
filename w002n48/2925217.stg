@@ -98,7 +98,14 @@ OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.5101117 48.5063116 26.37 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.5089523 48.5185149 4.63 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.5040869 48.5074093 5.36 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.5020956 48.5189296 7.34 180
+OBJECT_SHARED Models/Aircraft/D112.xml -1.5526612 48.6036897 5.63 0
+OBJECT_SHARED Models/Airport/Vehicle/traffic.xml -1.5519577 48.6030358 5.38 288
+OBJECT_SHARED Models/Airport/Vehicle/sailplane_trailer.ac -1.5519353 48.6031558 5.15 144
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.7084009 48.605984 6.24 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.7084009 48.605984 6.24 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.6428122 48.54395 92.8 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -1.6428122 48.54395 92.8 180
+OBJECT_SHARED Models/Aircraft/Ulm_Red.ac -1.552125 48.6029448 5.2 288
+OBJECT_SHARED Models/Aircraft/Ulm_Yellow.ac -1.5523512 48.604077 5.68 240
+OBJECT_SHARED Models/Aircraft/Ulm_Blue.ac -1.5524831 48.6038998 5.66 240
+OBJECT_SHARED Models/Airport/hang31x21m.ac -1.5530293 48.6033657 5.64 152

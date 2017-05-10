@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -2.138058 47.315558 1.31 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -2.0730556 47.3461111 -35.38 180
 OBJECT_SHARED Models/Industrial/generic_flare_01.ac -2.1441667 47.305 -147.52 180
 OBJECT_SHARED Models/Industrial/generic_flare_01.ac -2.0083333 47.2833333 -127.39 180
-OBJECT_SHARED Models/Airport/localizer.xml -2.167547 47.308481 4.31 343.41
+OBJECT_SHARED Models/Airport/localizer.xml -2.167547 47.308481 4.31 105.42
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.2008333 47.2856 1.75 255.22
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.20025 47.2842167 3.29 359.64
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.1996597 47.2677984 -0.03 305.15
@@ -28,3 +28,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -2.2260491 47.2522603 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -2.2124539 47.2601233 -0.07 326.2
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -2.1916862 47.2701112 -0.06 239.66
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -2.1802724 47.2809232 -0.02 316.79
+OBJECT_STATIC StNazaire.ac -2.17052 47.28505 0 29.8

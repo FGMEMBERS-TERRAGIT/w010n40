@@ -1,4 +1,3 @@
-OBJECT_SHARED Models/Communications/vordme_1.xml -1.830392 43.311197 219.97 180
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -1.79029432 43.35808037 0.02 320
 OBJECT_SHARED Models/Airport/GenericFuelStore3.ac -1.79012911 43.35797934 -0.1 320
 OBJECT_SHARED Models/Airport/hangar3.ac -1.79436084 43.35510344 1.01 322.8
@@ -19,6 +18,7 @@ OBJECT_SHARED Models/Airport/egkk_light_mast.xml -1.79182772 43.35721638 0.31 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -1.7912035 43.3579 0.35 44
 OBJECT_SHARED Models/Airport/EDGS_Hangar_G.xml -1.79104503 43.35804414 0.36 80
 OBJECT_SHARED Models/Maritime/Civilian/Fishingboat.xml -1.77824 43.36594 0.02 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -1.830392 43.311197 219.97 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.9338667 43.3347333 52.23 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.933851 43.334705 61.66 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.9275333 43.3370333 -2.46 0

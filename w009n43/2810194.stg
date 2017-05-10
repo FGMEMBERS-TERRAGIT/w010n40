@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac -8.328264 43.365364 101.17 180
 OBJECT_SHARED Models/Airport/ils.xml -8.3721 43.307217 80.8 148.13
 OBJECT_SHARED Models/Communications/vordme_1.xml -8.372083 43.307217 80.8 180
-OBJECT_SHARED Models/Airport/localizer.xml -8.384094 43.293728 93.7 300.85
+OBJECT_SHARED Models/Airport/localizer.xml -8.384094 43.293728 93.7 149
 OBJECT_SHARED Models/Airport/thangar.ac -8.38163655 43.30235151 94.98 60
 OBJECT_SHARED Models/Airport/Vehicle/chariot.xml -8.38085413 43.30195286 94.6 332
 OBJECT_SHARED Models/Airport/Vehicle/cloader.xml -8.38149739 43.30120062 95.86 264

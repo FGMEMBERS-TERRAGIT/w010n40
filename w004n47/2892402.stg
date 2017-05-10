@@ -78,7 +78,7 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -3.435264 47.762806 40.77 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -3.2966667 47.8619444 101.71 180
 OBJECT_SHARED Models/Communications/base_clape_01.xml -3.442196 47.760994 40.24 0
 OBJECT_SHARED Models/Communications/base_clape_02.xml -3.44489 47.76083 39.89 0
-OBJECT_SHARED Models/Airport/localizer.xml -3.460992 47.755853 32.78 341.69
+OBJECT_SHARED Models/Airport/localizer.xml -3.460992 47.755853 32.78 106.94
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.421905 47.874463 69.86 332
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.416914 47.872771 65.84 332
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.415484 47.873853 60.17 332

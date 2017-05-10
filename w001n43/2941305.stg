@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml -0.533111 43.909901 54.18 272.9
 OBJECT_SHARED Models/Airport/tacan.xml -0.504389 43.909944 58.22 180
 OBJECT_SHARED Models/Airport/GenericFuelStore5.ac -0.50076253 43.90980515 58.95 0
-OBJECT_SHARED Models/Airport/localizer.xml -0.540678 43.910403 49.57 357.19
+OBJECT_SHARED Models/Airport/localizer.xml -0.540678 43.910403 49.57 92.53
 OBJECT_SHARED Models/Residential/banlieue.xml -0.50734882 43.88054362 62.6 0
 OBJECT_SHARED Models/Residential/immeuble3.xml -0.50575293 43.8992656 47.27 0
 OBJECT_SHARED Models/Residential/immeuble3.xml -0.50168264 43.90670337 55.48 84

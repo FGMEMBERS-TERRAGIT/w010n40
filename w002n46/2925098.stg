@@ -7,4 +7,4 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.3788889 46.6625 62.14 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.4336111 46.6908333 72.86 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.4063889 46.6663889 77.11 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.3097222 46.7041667 89.72 180
-OBJECT_SHARED Models/Airport/localizer.xml -1.390442 46.703581 83.58 11.41
+OBJECT_SHARED Models/Airport/localizer.xml -1.390442 46.703581 83.58 78.08
