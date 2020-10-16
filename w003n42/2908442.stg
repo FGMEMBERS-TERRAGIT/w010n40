@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac -2.314736 42.451342 354.32 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -2.326911 42.460536 348.61 180
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -2.31725708 42.45675157 347.24 248
 OBJECT_SHARED Models/Airport/GenericFuelStore4.ac -2.31979017 42.4570551 346.09 340
 OBJECT_SHARED Models/Airport/apt-light.xml -2.31528759 42.45630517 347.15 0
@@ -50,6 +49,7 @@ OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.31559323 42.4557148 348.43
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.31504196 42.45556474 348.75 340
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.31449279 42.45540593 348.41 340
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -2.31405696 42.45529983 348.16 340
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -2.326911 42.460536 348.61 180
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -2.31571027 42.45632692 347.18 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -2.31557832 42.45628279 347.18 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -2.31542581 42.45618169 347.2 0

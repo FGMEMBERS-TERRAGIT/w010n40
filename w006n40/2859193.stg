@@ -1,6 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac -5.616594 40.927239 835.35 180
 OBJECT_SHARED Models/Airport/tacan.xml -5.502481 40.955222 787.97 180
-OBJECT_SHARED Models/Airport/localizer.xml -5.51055 40.939856 789.64 297.81
+OBJECT_SHARED Models/Airport/localizer.xml -5.51055 40.939856 789.64 150.89
 OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml -5.5011217 40.94145925 789.38 332
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -5.50550114 40.94072334 790.11 0
 OBJECT_SHARED Models/Aircraft/ATR42.xml -5.5023106 40.94256608 788.2 240

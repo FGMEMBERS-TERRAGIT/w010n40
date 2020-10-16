@@ -43,7 +43,7 @@ OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml -0.31424546 47.56253422
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml -0.31354929 47.56270561 50.93 0
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml -0.31272475 47.56281686 51.38 0
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml -0.31129903 47.56305391 52.22 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -0.3143126 47.56512493 56.12 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -0.3143126 47.56512493 56.12 0
 OBJECT_SHARED Models/Transport/van_red.ac -0.31385268 47.56325036 50.55 0
 OBJECT_SHARED Models/Transport/van_silver.ac -0.31426093 47.56314178 50.37 0
 OBJECT_SHARED Models/Aircraft/ask21-blue.xml -0.30210338 47.55796044 53.39 0

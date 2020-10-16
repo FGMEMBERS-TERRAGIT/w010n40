@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.0291667 45.6411111 4.87 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.1688889 45.6947222 7.19 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.0166667 45.6738889 27.95 180
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -1.029893 45.64116 25.93 0
 OBJECT_STATIC la_coubre.ac -1.2333333 45.6966667 5.69 280

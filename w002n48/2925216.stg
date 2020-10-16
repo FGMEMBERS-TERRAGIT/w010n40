@@ -227,3 +227,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.9735443 48.5277107
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.97157 48.52974 0 298.53
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.9704345 48.5455915 0 55.4
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.9700573 48.5335856 0 334.36
+OBJECT_STATIC PtChateau.ac -1.96862 48.5377 24.8 284
+OBJECT_STATIC PtStHubert.ac -1.96916 48.53601 13.9 299

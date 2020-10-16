@@ -97,5 +97,6 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.8961199 47.666131 64.9 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.8961199 47.666131 64.9 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.7532377 47.7019329 57.78 180
 OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.7532377 47.7019329 57.78 180
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.7867029 47.6254347 22.46 48
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.7853582 47.6282808 18.36 312
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.7867029 47.6254347 22.46 48
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.7853582 47.6282808 18.36 312
+OBJECT_STATIC PontLeBrix.ac -2.955415 47.639055 0.66 63.5

@@ -3,3 +3,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.3191677 46.0016533 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.3184914 46.0018472 -0.01 241.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.3188809 46.0013816 -0.01 43.43
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -1.3182248 46.0016586 -0.01 319.88
+OBJECT_STATIC Chassiron.ac -1.41028 46.04669 0 0

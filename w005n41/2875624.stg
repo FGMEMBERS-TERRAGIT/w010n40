@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml -4.840778 41.713139 844.17 133.74
 OBJECT_SHARED Models/Airport/tacan.xml -4.849806 41.704111 841.66 180
 OBJECT_SHARED Models/Airport/marker.ac -4.829722 41.722861 846.95 180
-OBJECT_SHARED Models/Airport/localizer.xml -4.866806 41.6955 836.88 315.13
+OBJECT_SHARED Models/Airport/localizer.xml -4.866806 41.6955 836.88 133.74
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -4.84620349 41.70628221 842.28 0
 OBJECT_SHARED Models/Aircraft/Cessna172.xml -4.84445693 41.70738937 842.63 288
 OBJECT_SHARED Models/Airport/Vehicle/chariot.xml -4.84460151 41.70699359 842.38 312

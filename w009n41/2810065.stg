@@ -1,6 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac -8.70815 41.34815 47.03 180
 OBJECT_SHARED Models/Airport/ils.xml -8.682564 41.258158 43.08 190.02
-OBJECT_SHARED Models/Communications/vordme_1.xml -8.687831 41.272997 42.45 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -8.682564 41.258158 43.08 180
 OBJECT_SHARED Models/Airport/marker.ac -8.707514 41.347986 46.59 180
 # dsf2stg
@@ -12,3 +11,4 @@ OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -8.67921 41.25582 -39.
 OBJECT_SHARED Models/lib/cube16x10.ac -8.67966 41.25637 54.41 280.49
 OBJECT_SHARED Models/lib/FireStationLg.ac -8.67947 41.25612 54.71 191.31
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -8.687831 41.272997 42.45 180

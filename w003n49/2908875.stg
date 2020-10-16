@@ -15,6 +15,7 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.084854 49.169324 -2.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.022272 49.19682 -2.4 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.010489 49.222246 -2.88 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -2.02378 49.215 -0.03 59.52
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -2.018344 49.224498 -0.08 110
 OBJECT_STATIC Seymour_Tower.xml -2.02942626 49.1645792 -0.01 264
 OBJECT_STATIC Demie_de_Pas_Lighthouse.xml -2.11578166 49.166498 -0.58 0
 # dsf2stg
@@ -447,3 +448,4 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -2.19799 49.20535 80.44 6.57999
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -2.19745 49.20539 80.77 6.57999
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -2.19189 49.20616 81.81 60.41
 # END dsf2stg
+OBJECT_STATIC JerseyTower.ac -2.19329003 49.2043364 81.43 265.4

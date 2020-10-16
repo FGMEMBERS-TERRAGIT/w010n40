@@ -2,7 +2,7 @@ OBJECT_SHARED Models/Sport/RedbullBlueGate.ac -8.62354 41.14284 3.4 93
 OBJECT_SHARED Models/Sport/RedbullBlueGate.ac -8.61329 41.13931 1 144
 OBJECT_SHARED Models/Sport/RedbullRedGate.ac -8.62104 41.14111 1.06 79
 OBJECT_SHARED Models/Sport/RedbullStartGate.ac -8.62663 41.1433 5.24 126
-OBJECT_SHARED Models/Airport/localizer.xml -8.676531 41.230042 66.94 258.87
+OBJECT_SHARED Models/Airport/localizer.xml -8.676531 41.230042 66.94 190.02
 OBJECT_SHARED Models/Airport/radar.xml -8.6760031 41.2348842 65.67 12
 OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.6751435 41.2392109 66.41 284
 OBJECT_SHARED Models/Airport/Jetway/jetway.xml -8.674844 41.2382849 66.97 292

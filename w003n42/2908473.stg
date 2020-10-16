@@ -1,6 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac -2.679614 42.928089 574.94 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -2.72435 42.880633 504.13 180
-OBJECT_SHARED Models/Airport/localizer.xml -2.709661 42.897856 508.39 125.85
+OBJECT_SHARED Models/Airport/localizer.xml -2.709661 42.897856 508.39 323.13
 OBJECT_SHARED Models/Boundaries/Hedge-50m.ac -2.7318096 42.88179991 503.89 324
 OBJECT_SHARED Models/Boundaries/Hedge-50m.ac -2.73146994 42.88215323 504.1 324
 OBJECT_SHARED Models/Boundaries/fence-80.xml -2.73586748 42.88082709 503.19 324
@@ -34,6 +33,7 @@ OBJECT_SHARED Models/Industrial/Schenker_storehouse66x30.xml -2.7297475 42.88470
 OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -2.73270875 42.88193403 506.29 324
 OBJECT_SHARED Models/Industrial/logistic.ac -2.73778095 42.8782868 501.85 324
 OBJECT_SHARED Models/Industrial/logistic.ac -2.73109662 42.88360957 504.95 324
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -2.72435 42.880633 504.13 180
 OBJECT_SHARED Models/StreetFurniture/carpark.ac -2.73632371 42.88058102 503.04 54
 OBJECT_SHARED Models/StreetFurniture/carpark.ac -2.73591214 42.88140173 508.6 54
 OBJECT_SHARED Models/StreetFurniture/carpark.ac -2.73500492 42.88187238 503.81 54.4

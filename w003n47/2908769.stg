@@ -87,3 +87,4 @@ OBJECT_SHARED Models/Industrial/water_tower_2.ac -2.6521725 47.526415 10.62 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -2.6482459 47.5006518 0 348.89
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -2.5119469 47.5177116 0 252.59
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -2.7406449 47.5506694 0.01 0
+OBJECT_STATIC Suscinio.ac -2.72895 47.51279 6.56 173

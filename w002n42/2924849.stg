@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml -1.650258 42.777814 447.15 206.78
 OBJECT_SHARED Models/Communications/vordme_1.xml -1.650467 42.777719 446.95 180
 OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml -1.63934321 42.76625115 452.83 0
-OBJECT_SHARED Models/Airport/localizer.xml -1.639253 42.760328 452.55 241.86
+OBJECT_SHARED Models/Airport/localizer.xml -1.639253 42.760328 452.55 206.78
 OBJECT_SHARED Models/Airport/hangar3.ac -1.639146 42.7661593 452.68 296
 OBJECT_SHARED Models/Airport/caisses2.xml -1.64014236 42.76650532 453.22 292
 OBJECT_SHARED Models/Airport/Vehicle/chariot.xml -1.64104494 42.76827947 452.68 32
