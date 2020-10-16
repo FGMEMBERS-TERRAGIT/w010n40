@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.505 45.3161111 87 180
+OBJECT_SHARED Models/Industrial/industrial_b_120x060.xml -0.69239 45.25752 19.2 96
+OBJECT_SHARED Models/Industrial/industrial_b_120x060.xml -0.69196 45.25474 14.67 96
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -0.7406631 45.3249479 -2.65 243.1
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -0.7203772 45.2863384 -0.28 162.7
+OBJECT_SHARED Models/Power/reacteur.ac -0.69338 45.25793 15.83 180
+OBJECT_SHARED Models/Power/reacteur.ac -0.69327 45.25711 15.26 180
+OBJECT_SHARED Models/Power/reacteur.ac -0.69292 45.25505 16.81 180
+OBJECT_SHARED Models/Power/reacteur.ac -0.69279 45.25422 13.17 180

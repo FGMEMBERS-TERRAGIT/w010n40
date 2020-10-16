@@ -2,7 +2,7 @@ OBJECT_SHARED Models/Airport/ndb.ac -8.639 42.186042 101.79 180
 OBJECT_SHARED Models/Airport/beacon.xml -8.629581 42.224996 255.56 0
 OBJECT_SHARED Models/Airport/ils.xml -8.623775 42.239803 253.39 168.1
 OBJECT_SHARED Models/Communications/vordme_1.xml -8.623639 42.239781 253.17 180
-OBJECT_SHARED Models/Airport/localizer.xml -8.629983 42.220083 253.58 281.38
+OBJECT_SHARED Models/Airport/localizer.xml -8.629983 42.220083 253.58 168.1
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml -8.6323579 42.225338 254.65 68
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml -8.6322514 42.225625 254.83 69.5
 OBJECT_SHARED Models/Airport/Jetway/jetway-737-ba.xml -8.6321349 42.226012 255.1 69.4

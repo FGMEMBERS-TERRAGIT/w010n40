@@ -13,3 +13,4 @@ OBJECT_SHARED Models/StreetFurniture/lesRosiers.ac -0.23036 47.34545 26.84 329.2
 OBJECT_SHARED Models/StreetFurniture/lesRosiers.ac -0.22774 47.34847 27.02 329.5
 OBJECT_SHARED Models/StreetFurniture/saumur.ac -0.07551 47.26233 30.41 321.7
 OBJECT_SHARED Models/StreetFurniture/saumurNord.ac -0.070787 47.266396 22 321.7
+OBJECT_STATIC ChatSaum.ac -0.07238 47.25678 74.81 48

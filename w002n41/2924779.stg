@@ -3,7 +3,7 @@ OBJECT_SHARED Models/Airport/ils.xml -1.012956 41.655792 255.25 59.53
 OBJECT_SHARED Models/Communications/vordme_1.xml -1.030864 41.657892 263.42 180
 OBJECT_SHARED Models/Airport/blast-deflector63m.xml -1.0088984 41.66116379 246.64 52
 OBJECT_SHARED Models/Airport/blast-deflector63m.xml -1.00794534 41.66065109 246.55 52
-OBJECT_SHARED Models/Airport/localizer.xml -1.044917 41.671261 247.88 30.12
+OBJECT_SHARED Models/Airport/localizer.xml -1.044917 41.671261 247.88 59.53
 OBJECT_SHARED Models/Airport/blast-deflector49m.xml -1.01269748 41.66275424 247.12 53.6
 OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml -1.06922967 41.67718937 249.64 135
 OBJECT_SHARED Models/Aircraft/F-15-lowpoly.xml -1.06913422 41.67744292 249.39 135

@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -1.1521207 44.664304 -0.02 310.
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -1.1516234 44.665898 -0.02 21.19
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.1498187 44.6641343 -0.02 218.58
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -1.1485523 44.6650563 -0.03 285.26
+OBJECT_STATIC PhFerret.ac -1.24881 44.64596 5.62 10

@@ -14,3 +14,5 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -1.265831 49.696436 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.36914 49.734768 -4.23 288.76
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.30689 49.7274 -1.61 352.86
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.48575 49.72598 -0.73 118.92
+OBJECT_SHARED Models/Airport/TourChalles.ac -1.477168 49.647709 136.32 30
+OBJECT_SHARED Models/Airport/EBLG_terminal_airport.ac -1.476728 49.646993 135.85 150

@@ -1,6 +1,7 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.0377778 47.4811111 91.88 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.1911111 47.4330556 52.72 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.1019151 47.4286171 15.16 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.0972222 47.4155556 67.99 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -1.0305556 47.4666667 53.69 180
 OBJECT_SHARED Models/Industrial/water-tower.ac -1.2133333 47.45 67.48 180
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -1.098306 47.413119 77.1 0
+OBJECT_SHARED Models/Aircraft/Cessna150_fr_reg.xml -1.186255 47.407586 33.93 110
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml -1.185933 47.407259 33.3 10
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.xml -1.186534 47.407474 33.56 290

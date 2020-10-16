@@ -1,9 +1,9 @@
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.8349113 47.3212467 -2.04 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.834893 47.3212237 -2.05 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.8348928 47.3212463 -2.05 180
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.8792918 47.341335 13.22 192
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.8786153 47.3382595 10.84 96
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.8781466 47.3395884 11.06 312
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.8777132 47.3392587 10.57 72
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.8765105 47.3397159 9.26 0
-OBJECT_SHARED Models/Residential/french_house_w.ac -2.875981 47.3387065 9.7 192
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.8792918 47.341335 13.22 192
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.8786153 47.3382595 10.84 96
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.8781466 47.3395884 11.06 312
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.8777132 47.3392587 10.57 72
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.8765105 47.3397159 9.26 0
+OBJECT_SHARED Models/Residential/french_house_w.xml -2.875981 47.3387065 9.7 192

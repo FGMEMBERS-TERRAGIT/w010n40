@@ -35,9 +35,9 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -4.7829889 48.3596634 0.4
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -4.8072679 48.3602366 -0.28 24
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -4.7969144 48.3695557 -0.46 312
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -4.8034638 48.2551114 -4.55 71
-OBJECT_SHARED Models/Residential/french_house_w.ac -4.7699641 48.3376922 24.62 0
-OBJECT_SHARED Models/Residential/french_house_w.ac -4.7694794 48.3308386 20.66 312
-OBJECT_SHARED Models/Residential/french_house_w.ac -4.7685284 48.3304025 22.23 72
-OBJECT_SHARED Models/Residential/french_house_w.ac -4.7675578 48.329721 24.05 0
+OBJECT_SHARED Models/Residential/french_house_w.xml -4.7699641 48.3376922 24.62 0
+OBJECT_SHARED Models/Residential/french_house_w.xml -4.7694794 48.3308386 20.66 312
+OBJECT_SHARED Models/Residential/french_house_w.xml -4.7685284 48.3304025 22.23 72
+OBJECT_SHARED Models/Residential/french_house_w.xml -4.7675578 48.329721 24.05 0
 OBJECT_STATIC Phare_de_Saint_Mathieu_Lighthouse.xml -4.77087617 48.3298363 10.06 240
 OBJECT_STATIC Pointe_de_Kermorvan_Lighthouse.xml -4.7885457 48.3625152 0 200

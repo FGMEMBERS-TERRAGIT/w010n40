@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/ndb.ac -0.56225 44.935222 3.69 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.5513889 44.9172222 3.53 180
+OBJECT_STATIC PontAquitaine.ac -0.53603 44.87969 0 75

@@ -1,3 +1,6 @@
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.121684 45.380581 4.9 0
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.121271 45.380883 4.87 0
+OBJECT_SHARED Models/Industrial/WaterWorks30m.xml -1.121287 45.380563 4.58 0
 OBJECT_SHARED Models/Airport/GenericFuelStore4.ac -1.08398371 45.49541614 0.53 44
 OBJECT_SHARED Models/Boundaries/Fence_10m.ac -1.08362851 45.49575889 0.09 176.1
 OBJECT_SHARED Models/Boundaries/Fence_10m.ac -1.08331051 45.49569184 0.24 131.6
