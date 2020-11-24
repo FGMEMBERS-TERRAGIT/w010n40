@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Airport/ils.xml -0.974919 45.887256 13.91 55.86
 OBJECT_SHARED Models/Airport/marker.ac -0.960778 45.879694 8.42 180
 OBJECT_SHARED Models/Airport/localizer.xml -0.999972 45.897389 14.82 55.86
 OBJECT_STATIC ViaMartrou.ac -0.96671 45.91735 2.1 15
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -0.97613 45.89109 0.00 147.34
+# END dsf2stg

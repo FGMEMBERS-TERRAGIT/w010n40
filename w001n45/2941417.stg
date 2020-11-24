@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.6227778 45.665 47.49 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -0.5666667 45.7408333 21.53 180
 OBJECT_SHARED Models/Communications/mil-antena-118m.xml -0.683636 45.749378 74 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -0.63077 45.70307 0.00 90
+OBJECT_SHARED Models/lib/industrial13x24.ac -0.63090 45.70264 14.12 357.14
+OBJECT_SHARED Models/lib/MedHangar.ac -0.63126 45.70275 14.18 267.24
+OBJECT_SHARED Models/lib/hangar81x16.ac -0.63625 45.70628 14.36 80
+# END dsf2stg

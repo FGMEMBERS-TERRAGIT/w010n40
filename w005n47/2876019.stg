@@ -31,3 +31,17 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -4.0092238 47.7615593 -0.21 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -4.2099299 47.7916808 -0.03 343.23
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -4.1892843 47.76725 -3.19 151.7
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -4.06592 47.7581823 -4.41 150.71
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24981 47.81991 21.65 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24957 47.81988 20.78 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24952 47.81969 20.51 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24947 47.81958 20.59 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24947 47.81953 20.63 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24951 47.81944 20.73 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24957 47.81944 20.89 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24961 47.81945 20.96 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24977 47.81946 21.01 90
+OBJECT_SHARED Models/lib/deciduous-tree.xml -4.24991 47.81947 21.11 270
+# END dsf2stg

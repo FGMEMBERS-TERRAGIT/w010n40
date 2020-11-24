@@ -31,3 +31,17 @@ OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml -8.6328353 42.224555 
 OBJECT_SHARED Models/Airport/Vehicle/tank1.xml -8.6327429 42.224188 254.08 258
 OBJECT_SHARED Models/Airport/hanger-50fx50f-blue-01.xml -8.6328842 42.224864 254 344
 OBJECT_SHARED Models/Airport/light-pole-20m-circular.xml -8.6293175 42.226353 256.23 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63159 42.22655 0.00 258.92
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63169 42.22618 255.71 258.88
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63178 42.22584 255.52 258.52
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63203 42.22550 255.32 258.7
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63198 42.22512 255.19 259.52
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -8.63196 42.22467 255.02 258.31
+OBJECT_SHARED Models/lib/SmHangar.ac -8.63206 42.22292 255.13 258.49
+OBJECT_SHARED Models/lib/FireStationLg.ac -8.63126 42.22760 254.65 258.59
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.63236 42.22617 256.35 345.73
+OBJECT_SHARED Models/lib/office32x25n.ac -8.63255 42.22701 255.47 348.017
+# END dsf2stg
